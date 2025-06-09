@@ -1,5 +1,4 @@
-👋 Olá! Bem-vindo ao meu perfil no Github.
-Meu nome é Hirai Santana!
+👋 Olá, Meu nome é Hirai Santana!
 
 • 🏠 Sou De Barueri/SP, Brasil
 
